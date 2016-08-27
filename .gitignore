@@ -2,3 +2,5 @@
 *.so
 build/*
 *.pyc
+*.cfg~
+dist/*
